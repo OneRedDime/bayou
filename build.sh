@@ -6,4 +6,8 @@ make
 make install
 mkdir -p bin
 cd bin
-ln -s ../assets
+
+if [ ! -e ./assets ]
+then
+    ln -s ../assets
+fi
