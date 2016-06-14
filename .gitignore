@@ -1,4 +1,5 @@
 COPYING
+doc/
 Makefile.in
 Makefile
 *.swp
