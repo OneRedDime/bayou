@@ -1,0 +1,13 @@
+COPYING
+Makefile.in
+Makefile
+*.swp
+INSTALL
+autom4te.cache/*
+aclocal.m4
+bin/*
+config.*
+configure
+depcomp
+install-sh
+missing
