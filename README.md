@@ -6,8 +6,8 @@ keyboard and mouse capture, and playing audio. Its main purpose is to assist
 with quickly developing a game utilizing 2D graphics.
 
 ## Dependencies
-Install the following packages with your favorite package manager. These
-were installed with apt on my platform.
+Install the following packages with your favorite package manager. Developer
+platform utilized apt.
 * g++
 * liballegro5-dev
 * liballegro5.0
@@ -16,7 +16,7 @@ were installed with apt on my platform.
 
 ## Installation
 ### Linux
-If you have installed the above packages, then clone this repo, cd into it, 
+If the above packages have been installed, then clone this repo, cd into it, 
 and run `./build.sh`.
 
 ### Mac
@@ -24,8 +24,8 @@ Never been attempted. Try installing it similar to linux.
 
 ### Windows
 Bayou games may be developed on Windows, as my test games were until recently.
-My preferred IDE is Visual Studio. Visual Studio Community 2015 is distributed
-by Microsoft for free.
+Utilised IDE is Visual Studio Community 2015 which is distributed by Microsoft
+for free.
 
 Bayou's source files need only be copied into a Visual Studio project to be
 used, but Allegro may require extra steps to set up. Obey the following steps
