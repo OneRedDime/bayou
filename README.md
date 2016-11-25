@@ -17,7 +17,8 @@ platform utilized apt.
 ## Installation
 ### Linux
 If the above packages have been installed, then clone this repo, cd into it, 
-and run `./build.sh`. Then run './bin/bayou' to run the sample game.
+and run `./build.sh`. Then run './bayou' from the src dir to run the sample
+game.
 
 ### Mac
 Never been attempted. Try installing it similar to linux.
