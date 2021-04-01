@@ -1,5 +1,6 @@
 #include "Environment.h"
 #include <algorithm>
+#include <cmath>
 using std::min;
 using std::max;
 
